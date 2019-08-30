@@ -1,3 +1,3 @@
 첫째주 내용 
 
-http://google.com
+[구글] http://google.com
